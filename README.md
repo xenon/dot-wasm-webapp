@@ -11,6 +11,7 @@ Seems to be very fast from my small amount of testing.
 ## Running the code
 ### Dependencies
 - Rust compiler
+- Wasm target compiler
 - cargo install trunk
 ### Running
 - trunk serve --open
