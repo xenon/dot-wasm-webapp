@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    overflow-y: hidden;
+}
+
+.split-div {
+    display: flex;
+    height: 100%;
+}
+
+.split-div-inner {
+    flex: 1;
+    height: 100%;
+    box-sizing: border-box;
+    border: 1px solid #000;
+}
+
+textarea {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    resize: none;
+}
